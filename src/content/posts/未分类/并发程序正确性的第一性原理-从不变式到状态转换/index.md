@@ -4,7 +4,7 @@ published: 2026-03-08
 description: "从 race condition、丢失更新与中间态泄露出发，尝试用不变式、可观察性与状态转换重新组织我对并发程序正确性的理解。"
 image: ""
 tags: ["并发编程","操作系统","不变式","程序正确性","学习记录"]
-category: "技术思考"
+category: "未分类"
 draft: true
 lang: ""
 ---
