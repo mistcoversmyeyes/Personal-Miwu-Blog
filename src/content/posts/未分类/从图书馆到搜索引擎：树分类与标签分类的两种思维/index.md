@@ -3,7 +3,7 @@ title: "从图书馆到搜索引擎：树分类与标签分类的两种思维"
 published: 2025-01-20
 description: "探讨树分类和标签分类的数学本质与实际应用场景"
 tags: [分类系统, 数据结构, 信息架构]
-category: "技术思考"
+category: ""
 draft: false
 ---
 
