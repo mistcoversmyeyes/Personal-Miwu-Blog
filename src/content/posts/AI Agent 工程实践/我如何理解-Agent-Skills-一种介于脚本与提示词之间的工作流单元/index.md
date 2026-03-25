@@ -4,7 +4,7 @@ published: 2026-03-24
 description: "基于持续使用 Agent Skills 的实践，本文区分了我在使用过程中形成的感性认识与最终沉淀出的理性认识：前者是一些片面的使用印象，后者则是两条更稳定的判断，即 Agent Skills 是工作流提示词、工具与静态资源的组合，并且它位于传统脚本与传统提示词之间，用来动态平衡确定性与不确定性。"
 image: ""
 tags: ["Agent Skills","工作流","大模型","提示词","脚本"]
-category: "AI工程"
+category: "AI Agent 工程实践"
 draft: true
 lang: ""
 ---
