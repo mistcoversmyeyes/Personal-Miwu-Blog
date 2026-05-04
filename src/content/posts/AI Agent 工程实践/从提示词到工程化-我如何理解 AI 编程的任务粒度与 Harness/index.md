@@ -15,7 +15,7 @@ lang: ""
 
 ## 参考文档
 
-- [原始对话总结](/reference-docs/AI Agent 工程实践/从提示词到工程化-我如何理解 AI 编程的任务粒度与 Harness/原始对话总结/)
+- [原始对话总结](/reference-docs/ai-agent-工程实践/从提示词到工程化-我如何理解-ai-编程的任务粒度与-harness/原始对话总结/)
 
 ## 问题起点：Coding Agent 不等于 ChatGPT 聊天框
 
